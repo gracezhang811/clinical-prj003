@@ -1,4 +1,4 @@
-# clinical-prj002
+# clinical-prj003
 
 > A Vue.js project
 
@@ -14,7 +14,7 @@ npm install
 npm run dev
 
 3、运行express后端
-npm run server
+nodemon ./server/app.js
 ```
 
 二、生成服务端静态资源
